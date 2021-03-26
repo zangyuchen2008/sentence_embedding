@@ -1,0 +1,4 @@
+{
+    "train_data":"/data/yuchen/projects/sentence_embedding/data/train/final/new_pos_samples_pos2m_neg2m_level3_train/train.pkl",
+    "valid_data":"/data/yuchen/projects/sentence_embedding/data/train/final/new_pos_samples_pos2m_neg2m_level3_train/valid.pkl"
+}

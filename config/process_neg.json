@@ -1,0 +1,12 @@
+{
+    "model_path":"/data/yuchen/projects/sentence_embedding/data/model/sts_model",
+    "pos_pair_path": "/data/yuchen/projects/sentence_embedding/data/pos_pair.pkl",
+    "lnis_path": "/data/yuchen/projects/sentence_embedding/data/lnis.pkl",
+    
+    "pos_pair_pathcut_path": "/data/yuchen/projects/sentence_embedding/data/pos_train_date_duplicate.pkl",
+    "out_put_path":"/data/yuchen/projects/sentence_embedding/data/train/neg_train_data_v0_2million.pkl",
+    "neg_pos": "neg",
+    "step":2000,
+    "threshhold" : 2000000
+    
+}
